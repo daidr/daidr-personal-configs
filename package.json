@@ -1,0 +1,16 @@
+{
+  "name": "daidr-personal-configs",
+  "description": "Preset configurations of commonly used front-end tools for personal use.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daidr/daidr-personal-config.git"
+  },
+  "homepage": "https://github.com/daidr/daidr-personal-config",
+  "keywords": [
+    "prettier",
+    "config",
+    "eslint"
+  ],
+  "author": "daidr",
+  "license": "MIT"
+}

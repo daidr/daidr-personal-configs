@@ -1,0 +1,28 @@
+{
+  "name": "@daidr/prettier",
+  "version": "0.1.0",
+  "main": ".prettierrc.js",
+  "description": "A preset configuration of prettier for personal use.",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/daidr/daidr-personal-config.git",
+    "directory": "packages/prettier"
+  },
+  "homepage": "https://github.com/daidr/daidr-personal-config",
+  "dependencies": {
+    "prettier-package-json": "2.8.0",
+    "prettier": "^2",
+    "@trivago/prettier-plugin-sort-imports": "npm:@ianvs/prettier-plugin-sort-imports@3.7.2"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "eslint"
+  ],
+  "author": "daidr",
+  "license": "MIT"
+}
