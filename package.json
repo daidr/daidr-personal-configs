@@ -3,9 +3,9 @@
   "description": "Preset configurations of commonly used front-end tools for personal use.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/daidr/daidr-personal-config.git"
+    "url": "https://github.com/daidr/daidr-personal-configs.git"
   },
-  "homepage": "https://github.com/daidr/daidr-personal-config",
+  "homepage": "https://github.com/daidr/daidr-personal-configs",
   "keywords": [
     "prettier",
     "config",

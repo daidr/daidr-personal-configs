@@ -2,6 +2,8 @@
 
 > Preset configurations of commonly used front-end tools for personal use.
 
+![npm version](https://img.shields.io/npm/v/@daidr/prettier)
+
 ## Presets List
 
 - [x] [@daidr/prettier](./packages/prettier/README.md) - Prettier configuration.

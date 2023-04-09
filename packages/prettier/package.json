@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/daidr/daidr-personal-config.git",
+    "url": "https://github.com/daidr/daidr-personal-configs.git",
     "directory": "packages/prettier"
   },
-  "homepage": "https://github.com/daidr/daidr-personal-config",
+  "homepage": "https://github.com/daidr/daidr-personal-configs",
   "dependencies": {
     "prettier-package-json": "2.8.0",
     "prettier": "^2",
