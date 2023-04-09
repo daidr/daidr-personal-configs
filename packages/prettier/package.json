@@ -1,6 +1,6 @@
 {
   "name": "@daidr/prettier",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": ".prettierrc.js",
   "description": "A preset configuration of prettier for personal use.",
   "publishConfig": {
@@ -20,8 +20,7 @@
   },
   "keywords": [
     "prettier",
-    "config",
-    "eslint"
+    "config"
   ],
   "author": "daidr",
   "license": "MIT"
