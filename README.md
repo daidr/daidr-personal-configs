@@ -1,8 +1,8 @@
 # daidr-personal-configs
 
-> Preset configurations of commonly used front-end tools for personal use.
+![npm version](https://img.shields.io/npm/v/@daidr/prettier?label=npm%3A%40daidr%2Fprettier)
 
-![npm version](https://img.shields.io/npm/v/@daidr/prettier)
+> Preset configurations of commonly used front-end tools for personal use.
 
 ## Presets List
 
